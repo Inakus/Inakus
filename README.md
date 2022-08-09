@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Inakus
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Swift and C#
-- 📫 How to reach me InakusZGW@gmail.com
+- 🌱 I’m currently learning React and Nodejs
+- 📫 How to reach me dobrekkarol@gmail.com
 
 <!---
 Inakus/Inakus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

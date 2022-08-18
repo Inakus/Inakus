@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Inakus
+- 👋 Hi, I’m Karol Dobrek
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning React and Nodejs
 - 📫 How to reach me dobrekkarol@gmail.com
